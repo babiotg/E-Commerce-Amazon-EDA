@@ -16,39 +16,39 @@ The project aims to answer the following questions:
 The analysis of the Amazon sales data yielded the following key findings:
 
 1. The top three categories that sold the most were SET, KURTA, and WESTERN DRESS.
-<figure>
-    <img src="img/Revenue_by_categories.jpg" alt="Revenue by Categories" width="100%">
-</figure>
+
+<img src="img/Revenue_by_categories.jpg" alt="Revenue by Categories" width="90%">
+
 
 2. The codes of the 20 best-selling products by quantity were identified.
-<figure>
-    <img src="img/20_Best_Selling_Products_by_Quantity.jpg" alt="20 Best-Selling Products by Quantity" width="100%">
-</figure>
+
+<img src="img/20_Best_Selling_Products_by_Quantity.jpg" alt="20 Best-Selling Products by Quantity" width="90%" >
+
 
 3. The codes of the 20 best-selling products by revenue were identified.
-<figure>
-    <img src="img/20_Best_Selling_Products_by_Revenue.jpg" alt="20 Best-Selling Products by Revenue" width="100%">
-</figure>
+
+<img src="img/20_Best_Selling_Products_by_Revenue.jpg" alt="20 Best-Selling Products by Revenue" width="90%" >
+
 
 4. A ranking of the 20 cities with the most orders was created, and each region was assigned a color in the chart.
-<figure>
-    <img src="img/First_20_Cities_by_Nr_of_Orders.jpg" alt="First 20 Cities by Nr. of Orders" width="100%">
-</figure>
+
+<img src="img/First_20_Cities_by_Nr_of_Orders.jpg" alt="First 20 Cities by Nr. of Orders" width="90%">
+
 
 5. A ranking of the 20 cities that generated the most income was created.
-<figure>
-    <img src="img/First_20_Cities_by_Revenue.jpg" alt="First 20 Cities by Revenue" width="100%">
-</figure>
+
+<img src="img/First_20_Cities_by_Revenue.jpg" alt="First 20 Cities by Revenue" width="90%">
 
 
-6. The analysis revealed that 69.5% of the orders were fulfilled by Amazon, while 30.5% were fulfilled by the Merchant. The shipping state overview was also checked.
-<figure>
-    <img src="img/Fulfilment_Orders_Overview.jpg" alt="Fulfilment Orders Overview" width="100%">
-</figure>
 
-<figure>
-    <img src="img/Shipping_State_Overview.jpg" alt="Shipping State Overview" width="100%">
-</figure>
+6. The analysis revealed that 69.5% of the orders were fulfilled by Amazon, while 30.5% were fulfilled by the Merchant. 
+
+<img src="img/Fulfilment_Orders_Overview.jpg" alt="Fulfilment Orders Overview" width="50%" >
+
+The shipping state overview was also checked.
+
+<img src="img/Shipping_State_Overview.jpg" alt="Shipping State Overview" width="70%" >
+
 
 Overall, this exploratory data analysis and data cleaning project provides valuable insights into Amazon sales data and can help businesses optimize product profitability.
 
