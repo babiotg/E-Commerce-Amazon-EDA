@@ -20,22 +20,26 @@ The analysis of the Amazon sales data yielded the following key findings:
 <img src="img/Revenue_by_categories.jpg" alt="Revenue by Categories" width="90%">
 
 
-2. The codes of the 20 best-selling products by quantity were identified.
+
+2. It was verified that the 20 Best-Selling Products by quantity belongs to the categories Western Dress, Kurta and Set.
 
 <img src="img/20_Best_Selling_Products_by_Quantity.jpg" alt="20 Best-Selling Products by Quantity" width="90%" >
 
 
-3. The codes of the 20 best-selling products by revenue were identified.
+
+3. On the other hand, the 20 Best-Selling Products by revenue belongs only to the categories Western Dress and Set.
 
 <img src="img/20_Best_Selling_Products_by_Revenue.jpg" alt="20 Best-Selling Products by Revenue" width="90%" >
 
 
-4. A ranking of the 20 cities with the most orders was created, and each region was assigned a color in the chart.
+
+4. A ranking of the 20 cities with the most orders was created, and each region was assigned a color in the chart. Bangalore is the city with the highest number of orders.
 
 <img src="img/First_20_Cities_by_Nr_of_Orders.jpg" alt="First 20 Cities by Nr. of Orders" width="90%">
 
 
-5. A ranking of the 20 cities that generated the most income was created.
+
+5. It was created also a ranking of the 20 cities that generated the most income, Bangalore still mantains a leading position.
 
 <img src="img/First_20_Cities_by_Revenue.jpg" alt="First 20 Cities by Revenue" width="90%">
 
@@ -45,10 +49,15 @@ The analysis of the Amazon sales data yielded the following key findings:
 
 <img src="img/Fulfilment_Orders_Overview.jpg" alt="Fulfilment Orders Overview" width="50%" >
 
+
+
 The shipping state overview was also checked.
 
 <img src="img/Shipping_State_Overview.jpg" alt="Shipping State Overview" width="70%" >
 
+The Fulfilment ratio between Amazon and Merchant is evenly distributed (around 70%-30%) even when we consider the individual destination cities.
+
+<img src="img/First_20_Cities_by_Revenue_Fulfilment_hue.jpg" alt="First 20 Cities by Revenue - Fulfillment hue" width="95%">
 
 Overall, this exploratory data analysis and data cleaning project provides valuable insights into Amazon sales data and can help businesses optimize product profitability.
 
