@@ -2,6 +2,8 @@
 
 This project is an exploratory data analysis and data cleaning of a dataset that contains detailed insights into Amazon sales data. The dataset covers a 90-day time frame, from 31 March 2022 to 29 June 2022, and includes information such as SKU Code, Design Number, Stock, Category, and Size. The goal of the project is to help optimize product profitability by answering several key questions related to the sales data.
 
+To see the project jupyter notebook work visit this link: [Exploratory Data Analysis and Data Cleaning.ipynb](https://github.com/babiotg/E-Commerce-Amazon-EDA/blob/main/Exploratory%20Data%20Analysis%20and%20Data%20Cleaning.ipynb)
+
 ## Scope of the project
 The project aims to answer the following questions:
 
